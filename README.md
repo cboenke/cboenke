@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cboenke&show_icons=true&locale=en&theme=radical" alt="cboenke" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cboenke&theme=highcontrast" alt="cboenke" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cboenke&theme=radical" alt="cboenke" /></p>
