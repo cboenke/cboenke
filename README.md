@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cboenke&label=Profile%20views&color=0e75b6&style=flat" alt="cboenke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cboenke&theme=radical" alt="cboenke" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cboenke&theme=onedark" alt="cboenke" /></a> </p>
 
 - 🔭 I’m currently working on a [Niffler fangame](https://github.com/cboenke/niffler-fangame)
 
